@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCA</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>User is locked by administrator (passw. change and unlocking not possib.)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>User is not not locked or no password exists.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Unlocking of user was not successful. Please contact administrator.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>User was unlocked successfully.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Password reset successful.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Resetting password was not successfull. Please contact administrator.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Email sent</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Error sending email.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error with sending or receiving data from remote endpoint &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>User has no email address maintained.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>&amp;1 with number &amp;2 added by user &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Ticket &amp;1 not found.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Error when trying to update the ticket. Please contact the administrator.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Please provide a valid Jira-ticket number. Error with http connection.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Jira check successfull. Transport text and Z_TRANSPORT updated.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCA</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Action aborted. No updates in transport request done.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

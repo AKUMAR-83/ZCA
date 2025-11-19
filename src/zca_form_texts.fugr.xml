@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <INCLUDES>
+    <SOBJ_NAME>LZCA_FORM_TEXTSTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZCA_FORM_TEXTS</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_CA_GET_TEXTS</FUNCNAME>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>IV_LANGU</PARAMETER>
+       <REFERENCE>X</REFERENCE>
+       <TYP>SPRAS</TYP>
+      </RSIMP>
+     </IMPORT>
+     <EXPORT>
+      <RSEXP>
+       <PARAMETER>ES_TXT_TRANS</PARAMETER>
+       <REFERENCE>X</REFERENCE>
+       <TYP>ZCA_TEXTS_STR</TYP>
+      </RSEXP>
+     </EXPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>IV_LANGU</PARAMETER>
+       <KIND>P</KIND>
+      </RSFDO>
+      <RSFDO>
+       <PARAMETER>ES_TXT_TRANS</PARAMETER>
+       <KIND>P</KIND>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
